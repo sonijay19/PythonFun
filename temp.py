@@ -8,7 +8,7 @@
 # word = ''.join(a)
 # print(word)
 
-
+print('soni')
 s = 'Jay#Soni#e'
 c = '#'
 a = []
